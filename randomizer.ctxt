@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=randomizer
+comment1.params=
+comment1.target=randomizer()
+comment1.text=\r\n\ constructor\r\n
+comment2.params=cuantosNum\ hastaNum
+comment2.target=void\ numRandom(int,\ int)
+comment2.text=\r\n\ metodo\ para\ mostrar\ numeros\ enteros\ aleatorios\r\n
+comment3.params=cuantosBol
+comment3.target=void\ bolRandom(int)
+comment3.text=\r\n\ metodo\ para\ mostrar\ numeros\ enteros\ aleatorios\r\n
+comment4.params=
+comment4.target=void\ siNoTalvez()
+comment4.text=\r\n\ metodo\ para\ mostrar\ numeros\ enteros\ aleatorios\r\n
+comment5.params=respuestas
+comment5.target=void\ addRespuesta(java.lang.String)
+comment6.params=
+comment6.target=void\ codigoAleatorio()
+comment6.text=\r\n\ metodo\ para\ mostrar\ numeros\ enteros\ aleatorios\r\n
+comment7.params=
+comment7.target=void\ numeroRandom()
+comment7.text=\r\n\ devuelve\ un\ numero\ aleatorio\r\n
+comment8.params=cuantosNum
+comment8.target=void\ numerosRandom(int)
+comment8.text=\r\n\ metodo\ para\ mostrar\ numeros\ enteros\ aleatorios\r\n
+numComments=9
