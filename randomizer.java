@@ -68,7 +68,7 @@ public class randomizer{
 
         System.out.println(r.nextInt());
     }
-    
+
     /**
      * metodo para mostrar numeros enteros aleatorios
      */
@@ -76,6 +76,31 @@ public class randomizer{
         for(int q =0 ; q < cuantosNum; q++){
             System.out.println( r.nextInt());
         }
+    }
+
+    /**
+     * el dado
+     */
+    public void dado(){
+        int num = r.nextInt(6)+1;
+        System.out.println(num);
+    }
+
+    /**
+     * numero aleatorio entre 1 y n
+     */
+    public void numEntre1y(int hastaNum){        
+        int num = r.nextInt(hastaNum+1);
+        System.out.println(num);
+    }
+
+    /**
+     * numeros aleatorios entre x y x
+     */
+    public void minMax(int min,int max){
+        int num = r.nextInt(max-min);
+        num=num+min;            
+        System.out.println(num);
     }
 }
 
